@@ -1,3 +1,4 @@
+// These are addresses for the pixel buffer and text buffer
 .EQU PIX_BUFFER, 0xc8000000
 .EQU TEXT_BUFFER, 0xc9000000
 .EQU BACK_BUFFER, 0xc0000000
