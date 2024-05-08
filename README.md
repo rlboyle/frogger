@@ -1,7 +1,7 @@
 # frogger
 Ryan Boyle
 
-Inspired by the classic arcade game frogger, the player controls the frog using the pushbuttons and accumulates points by moving forward.
+Inspired by the classic arcade game frogger, the player controls the frog using pushbuttons and accumulates points by moving forward.
 
 Scoring system: Increment score by ten when frog moves forward, moving backwards and forwards again does not count. Points only accumulate when the frog moves to a previously unreached y-coordinate.
   Powerup #1 (pink square) adds one life when collected
