@@ -3,10 +3,7 @@ Ryan Boyle
 
 Inspired by the classic arcade game frogger, the player controls the frog using the pushbuttons and accumulates points by moving forward.
 
-Advanced Features 
-Sound: Intro music, sound when frog moves, frog dies, powerup collected, and level completed 
-Massive number of active and discernable sprites: 1 frog, 1 moving text sprite, 3 powerups, 21 cars
-Complex scoring system: Increment score by ten when frog moves forward, moving backwards and forwards again does not count. Points only accumulate when the frog moves to a previously unreached y-coordinate.
+Scoring system: Increment score by ten when frog moves forward, moving backwards and forwards again does not count. Points only accumulate when the frog moves to a previously unreached y-coordinate.
   Powerup #1 (pink square) adds one life when collected
   Powerup #2 (yellow square) adds 100 points when collected
   Evil powerup (red square) subtracts 100 points when hit.
