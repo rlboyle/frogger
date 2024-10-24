@@ -8,6 +8,8 @@ To play, navigate to https://cpulator.01xz.net/?sys=arm-de1soc and paste all cod
 
 <img width="500" alt="Screenshot 2024-10-23 at 11 24 53 PM" src="https://github.com/user-attachments/assets/57c7ca49-548a-46e0-b8bd-1d3b77440d0f">
 
+Image of gameplay run on cpulator
+
 #
 
 ### Controls
